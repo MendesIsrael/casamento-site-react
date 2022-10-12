@@ -3,7 +3,7 @@ export function Page01() {
         <div>
             <div> 
                 <p>
-                    gjfhjCriamos esse site para compartilhar com vocês os detalhes da organização do nosso casamento. Estamos muito felizes e contamos com a presença de todos no nosso grande dia!
+                    Criamos esse site para compartilhar com vocês os detalhes da organização do nosso casamento. Estamos muito felizes e contamos com a presença de todos no nosso grande dia!
                     
                     Ah, é importante também confirmar sua presença com a nossa assessoria. Aguarde, eles entrarão em contato com você. Somente com eles que a sua presença será confirmada.
                     
