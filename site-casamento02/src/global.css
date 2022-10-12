@@ -1,0 +1,19 @@
+:root {
+    --black: #000000;
+    --white: #ffffff;
+    --white-50: #f1f1f1;
+    --gray-100: #b8b8b8;
+    --gray-300: #5e5656;
+    --red-100: #770202;
+    --red-400: #5E0202;    
+    --red-900: #380101;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: var(--red-100);
+}
